@@ -1,0 +1,13 @@
+# Local screenshots, exports and release work stay outside tracked material.
+/local-private/
+/local-review/
+*.apk
+*.aab
+*.mp4
+*.mkv
+*.zip
+*.tar
+*.tar.gz
+*.kdenlive
+*.kdenlive~
+.DS_Store
